@@ -1,16 +1,11 @@
 # Pixel Art Maker Project
 
-## Table of Contents
-
-- [Instructions](#instructions)
-- [Contributing](#contributing)
+Thank you Google for giving me an opportunity to learn and develop my skills.:+1: :sparkles:
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+* Download the zip folder.
+* Open the files inside using any IDE.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+##Link to my project
+[https://amadijeffrey.github.io/udacityproject/](https://amadijeffrey.github.io/udacityproject/)

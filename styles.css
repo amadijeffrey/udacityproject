@@ -44,6 +44,7 @@ input[type="number"] {
   outline: none;
   border: 1px solid rgba(0, 0, 0, 0.3);
   padding-left: 3px;
+  margin-right: 18px;
 }
 
 input[type="submit"] {
